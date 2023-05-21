@@ -1,9 +1,7 @@
 {
   "prefix": "",
-  "guildId": "",
   "clientId": "",
   "owner": "",
-  "log_channel": "",
   "token": "",
   "open_ai_key": "",
   "colorDefault": "#85ffa1",
@@ -28,7 +26,4 @@
     "clientId": "f15ef657bd2543eba43455e16d0de6ac"
   },
   "api_key": "",
-  "genius_token": "",
-  "mongo": "",
-  "invite_link": ""
 }
